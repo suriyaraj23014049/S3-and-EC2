@@ -1,7 +1,7 @@
 # CLOUD-STORAGE-CREATION-S3-AND-LAUNCHING-AN-EC2-INSTANCE-IN-AWS-
 
-## NAME: THARUN KUMAR M
-## REG NO: 212222100056
+## NAME: SURIYA RAJ K
+## REG NO: 212223040216
 
 # Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
